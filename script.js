@@ -12,5 +12,4 @@ exeBB.addEventListener('click', function aler2 (){
     } else {
         alert('Ответ неверный!')
     }
-    //alert('работает')
 });
